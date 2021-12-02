@@ -1,2 +1,2 @@
 # Be-the-First-Game
-A game which make hurry and worry to be the first to score 100🏆
+A game which makes you hurry and worry to Be the First to score 100🏆
